@@ -1,0 +1,24 @@
+//Collections
+
+1. Sorting HashMap by values in ascending and descending order.
+2.How to remove key value pairs or Entries from HashMap.
+3. Difference between PriorityQueue and TreeSet.
+4. Difference between Stack and Queue Data Structure in Java.
+5. Difference between for loop and Enchanced for loop in java.
+6. How to iterate through ConcurrentHashMap and print all keys and values in Java.
+7. What is the difference between Synchronized and Concurrent Collections in Java.
+8. How to reverse an ArrayList in Java using Recursion.
+9. How to convert an Array to HashSet in Java.
+10. Difference between Array and ArrayList in Java.
+11. How to declare and initialize a List (ArrayList & LinkedList) in Java.
+12. 3 Ways to loop over Set or HashSet in Java.
+13. How does java HashMap or LinkedHashMap handles collision.
+14. Example of using ArrayList in Java.
+15.How to remove all elements from ArrayList in Java- Clear vs RemoveAll.
+16. Difference between HashMap, LinkedHashMap and TreeMap in Java.
+17. How to find First and Last element in LinkedList Java.-getFirst(),getLast()
+18. How to use copyOnWriteArraySet in Java with Example.
+19. Enhanced For Loop Example and Puzzle in Java.
+20. How to use EnumSet in Java with Example.
+21. Binary Search vs Contains Performance in Java.
+22. Java Comparable Example for Natural Order Sorting. Page-5
